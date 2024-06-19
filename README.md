@@ -29,17 +29,6 @@ The Bookhub Project is a full-stack web application designed to manage a collect
 
 - **Links**: Navigate to book details, edit, and delete pages using links and icons.
 
-
-## Screenshots
-
-![Home](/Book%20Image.png)
-![Card View](/Book%20image1.png)
-![Create Book](/create%20image2.png)
-![Show Book](image-3.png)
-![Edit Book](image-4.png)
-![Delete Book](image-5.png)
-
-
 ## Getting Started
 
 Follow the steps below to set up the project on your local machine and run it:
